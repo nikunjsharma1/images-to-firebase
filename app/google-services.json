@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841265702054",
+    "firebase_url": "https://myassignment-84038.firebaseio.com",
+    "project_id": "myassignment-84038",
+    "storage_bucket": "myassignment-84038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841265702054:android:5b5aff243a0fca54b8c067",
+        "android_client_info": {
+          "package_name": "com.example.imagestofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841265702054-qhu7uj02cc699r38alcgbtkpls4nruv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcHP-HDybxtMSaQjJZu9cPuWftj6gvcnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841265702054-qhu7uj02cc699r38alcgbtkpls4nruv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
